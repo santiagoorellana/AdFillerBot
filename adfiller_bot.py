@@ -29,7 +29,7 @@ from scraper_revolico import *
 # Constantes para configuracion basica.
 #-----------------------------------------------------------------------
 
-TOKEN = '5441029238:AAEKWku2z6yXOsB77LTaUnCy_-cziAxvyoM'
+TOKEN = 'YOUR_TOKEN'
 ADMIN_ROOT_ID = 715046259  #Santiago Orellana
 FILE_RECEIVERS = './receivers.txt'
 FILE_ADMINS = './admins.txt'
